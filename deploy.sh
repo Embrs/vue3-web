@@ -6,5 +6,5 @@ npm run build
 
 git add .
 git commit -m "build"
-git push origin main
+git push
 git subtree push --prefix dist origin gh-pages
